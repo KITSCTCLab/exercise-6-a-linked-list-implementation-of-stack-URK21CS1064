@@ -17,7 +17,7 @@ class Stack:
   def status(self):
     """
     It prints all the elements of stack.
-    """
+    """hi
     # Write your code here  
 
 
